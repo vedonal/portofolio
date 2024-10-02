@@ -86,11 +86,12 @@
   box-shadow: 0px 0px 10px 3px #dfdfdfc2 !important;
   border-radius: 8px !important;
   transition: transform 0.25s ease-in, box-shadow 0.25s ease-in;
-  transform: translate(0px, -10px);
+  
 }
 
 .card-link .card:hover{
   box-shadow: 0px 0px 12px 4px #cbcbcbcc  !important;
+  transform: translate(0px, -10px);
 }
 
 .card-title {
